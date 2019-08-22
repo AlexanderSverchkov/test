@@ -1,2 +1,3 @@
 #выводим служебную папку phpStorm из под git
-.idea
+.idea/
+*.log
